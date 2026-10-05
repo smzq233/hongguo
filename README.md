@@ -88,7 +88,3 @@ python main.py
 
 - Node.js：项目现有播放器 API 签名脚本需要使用；
 - FFmpeg：媒体处理阶段使用。
-
-## 保留的旧工具
-
-`json_media_analyzer_gui.py` 与 `video_decoder_gui.py` 暂时没有删除，便于单独调试和对照；正常使用时只需要运行 `main.py`。
